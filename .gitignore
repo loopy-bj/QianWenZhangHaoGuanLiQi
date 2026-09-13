@@ -1,0 +1,15 @@
+# 编译产物
+QianwenSwitcher.exe
+build.rsp
+bin/
+obj/
+
+# 运行产物（含登录态快照，严禁提交）
+config.json
+profiles/
+logs/
+
+# 系统/编辑器文件
+Thumbs.db
+Desktop.ini
+.vs/
