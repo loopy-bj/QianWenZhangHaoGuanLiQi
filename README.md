@@ -52,7 +52,7 @@
 ## 快速开始
 
 1. 在 [Releases](../../releases) 下载最新版压缩包，解压到**任意目录**（建议路径不含特殊字符，例如 `D:\Tools\QianwenSwitcher`）。
-2. 确保千问处于登录状态，运行 `QianwenSwitcher.exe`。
+2. 确保千问处于登录状态，运行`build.bat`文件构建exe程序然后运行 `QianwenSwitcher.exe`。
 3. 首次打开若未自动识别路径，在"设置"里手动选择：
    - **千问程序**：`qianwen.exe` 的完整路径；
    - **数据目录**：千问用户数据目录（默认为 `%LOCALAPPDATA%\qianwen\User Data`）。
